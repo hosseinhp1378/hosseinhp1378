@@ -16,7 +16,9 @@ I am a dedicated React Native Developer with over 2 years of experience. I speci
 Diverse passions define me:
 
 🎮 Valorant Enthusiast
+
 ⚽ Football Aficionado
+
 🏐 Volleyball Enthusiast
 
 Coding by day, gaming and sports by night – let's connect and share the excitement! 💻⚡

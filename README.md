@@ -12,6 +12,11 @@ I am a dedicated React Native Developer with over 2 years of experience. I speci
 # 📊 Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinhp1378&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# 🎮 Interests
-!Videogame (Valorant)
-!Voly/Football
+# 🎮 ⚽🏐 Interests
+Diverse passions define me:
+
+🎮 Valorant Enthusiast
+⚽ Football Aficionado
+🏐 Volleyball Enthusiast
+
+Coding by day, gaming and sports by night – let's connect and share the excitement! 💻⚡

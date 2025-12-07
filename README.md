@@ -24,7 +24,7 @@ Let's build something amazing together! 💻✨
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinhp1378&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinhp1378&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 🎮 ⚽🏐 Interests
 Diverse passions define me:
